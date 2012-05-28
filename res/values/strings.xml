@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music4ThemeHospital</string>
+    <string name="no_external_storage">External storage isn\'t available. Please make sure that your device is disconnected from a computer and that your SD card is inserted (if applicable) and restart the app.</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="quit">Quit</string>
+    <string name="install">Extract</string>
+    <string name="uninstall">Remove</string>
+    <string name="install_success">The installation was successful.</string>
+    <string name="uninstall_success">All Music files are removed.</string>
+    <string name="noting_to_remove">Music data not installed!</string>
+    <string name="summary">Click \'Extract\' to extract the ThemeHospital music data to external storage;\n\'Remove\' to remove them.\n\nAfter extraction, Please quit this app and launch the ThemeHospital(You can download it from google play), Click music button on top panel will turn on background music.</string>
+    <string name="extract_files">Extract music files, please wait a moment...</string>
+    <string name="copy_files">Copy music pacakge to external storage...</string>
+    <string name="extracting_failed">File extract failed, this may be the external storage is not available!</string>
+    <string name="not_enough_space">Not enough external storage space(at least need to 40MB), clean up some useless files and try this app again!</string>
+    <string name="not_suitable_resolution">Sorry, The ThemeHospital requires at least 800x480 resolution in order to run, your device can not run that game.Should continue to install music data?</string>
+    <string name="deleting">Deleting...</string>
+
+</resources>
